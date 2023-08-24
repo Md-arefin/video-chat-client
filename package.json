@@ -10,8 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "global": "^4.4.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-copy-to-clipboard": "^5.1.0",
+    "react-dom": "^18.2.0",
+    "simple-peer": "^9.11.1",
+    "socket.io-client": "^4.7.2",
+    "web-vitals": "^3.4.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
